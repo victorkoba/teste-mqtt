@@ -1,7 +1,4 @@
-# Teste-MQTT
-# MQTT Teste - Publicador e Assinante
-Este projeto contém um exemplo de comunicação MQTT utilizando a biblioteca `paho-mqtt` em Python.
-
+# Teste MQTT
 ## **Pré-requisitos**
 - Python 3 instalado
 - Biblioteca `paho-mqtt` instalada
